@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Stresta.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="kvpt_blancgastrodesktopConnectionString" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;ConnectionString&gt;server=128.65.192.91;user id=kvpt_jahiu;password=BlancGastro@123;database=kvpt_blancgastrodesktop;persistsecurityinfo=True&lt;/ConnectionString&gt;
+  &lt;ProviderName&gt;MySql.Data.MySqlClient&lt;/ProviderName&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">server=128.65.192.91;user id=kvpt_jahiu;password=BlancGastro@123;database=kvpt_blancgastrodesktop;persistsecurityinfo=True</Value>
+    </Setting>
+    <Setting Name="kvpt_osterdbmConnectionString" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;ConnectionString&gt;server=kvpt.myd.infomaniak.com;user id=kvpt_osterdbr;password=Oster@123.;database=kvpt_osterdbm&lt;/ConnectionString&gt;
+  &lt;ProviderName&gt;MySql.Data.MySqlClient&lt;/ProviderName&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">server=kvpt.myd.infomaniak.com;user id=kvpt_osterdbr;password=Oster@123.;database=kvpt_osterdbm</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
